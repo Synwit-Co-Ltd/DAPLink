@@ -1,0 +1,270 @@
+{
+  "uuid": "399290abe680a3613acbc3a79ebf53c3",
+  "path": "Offline/SWM341_DAPLink%202T45",
+  "name": "SWM341_DAPLink 2T45",
+  "content": "",
+  "created_at": "2022-06-29 15:22:43",
+  "updated_at": "2022-06-30 11:27:47",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fedcddb79951310ea4c78f0763258724",
+      "title": "SWM341_DAPLink.LCSch",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "00e89b7048cc4b9b8c6d9a022d313570": 1,
+        "29a9ed4bd7e44ab5b1151bac840be6d3": 1,
+        "a68dc5e6a9944c46b7604648a43dcd65": 2,
+        "0adeda5a7e314de383e4049b44180ad7": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1,
+        "237219dbb79447eba469925a01fc688c": 5
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10u",
+          2,
+          "C0805",
+          "C0,C2",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "104",
+          4,
+          "C0805",
+          "C1,C3,C4,C5",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "105",
+          1,
+          "C0805",
+          "C6",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "22P",
+          2,
+          "C0805",
+          "C7,C8",
+          {
+            "puuid": "9796ce52d844439588f46357e429be00",
+            "uuid": ""
+          }
+        ],
+        [
+          "1u",
+          1,
+          "C0805",
+          "C9",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          1,
+          "HDR-M-2.54_1X4",
+          "DBG",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x6",
+          1,
+          "SMD-HDR6X2",
+          "HDR",
+          {
+            "BOM_Supplier Part": "C124388",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "cb4cd0c1021f4d0189def6b72663a70a",
+            "uuid": "29a9ed4bd7e44ab5b1151bac840be6d3"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          2,
+          "HDR-M-2.54_1X3",
+          "MODE,VOLT",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "NO",
+          4,
+          "LED0805_RED",
+          "PWR,RXD,SWD,TXD",
+          {
+            "puuid": "090b645653374cf992fd93fb559e27d2",
+            "uuid": ""
+          }
+        ],
+        [
+          "510",
+          4,
+          "R0805",
+          "R0,R1,R2,R3",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "47k",
+          3,
+          "R0805",
+          "R4,R5,R6",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0805",
+          "R9",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "1117",
+          1,
+          "SOT-223",
+          "U0",
+          {
+            "puuid": "0b0f7e179ede420a8af2a98a7bbdc039",
+            "uuid": ""
+          }
+        ],
+        [
+          "SWM3411LQFP48",
+          1,
+          "LQFP48-0.5-7X7MM",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f9e6d8f6fe6e4b348da3a046eee6c415",
+            "uuid": "0adeda5a7e314de383e4049b44180ad7"
+          }
+        ],
+        [
+          "SN74LVC2T45DCUR",
+          5,
+          "VSSOP-8_L2.4-W2.1-P0.50-LS3.2-BR",
+          "U2,U3,U4,U5,U6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "SN74LVC2T45DCUR",
+            "BOM_Supplier Part": "C15741",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0a401b521df54dabb57c5269dfa4e21e",
+            "uuid": "237219dbb79447eba469925a01fc688c"
+          }
+        ],
+        [
+          "MicroUSB",
+          1,
+          "MICROUSB",
+          "USB",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "b15b3c292713475988b6b7fe8f00426f",
+            "uuid": "00e89b7048cc4b9b8c6d9a022d313570"
+          }
+        ],
+        [
+          "12M",
+          1,
+          "SMD-5032_2P",
+          "Y",
+          {
+            "puuid": "4fe2c1ea2ed740e8b938a136f207e559",
+            "uuid": ""
+          }
+        ]
+      ],
+      "updateTime": 1656559139,
+      "createTime": 1645085300,
+      "histories": [],
+      "created_at": "2022-02-17 16:08:20",
+      "updated_at": "2022-06-30 11:18:59"
+    },
+    {
+      "uuid": "c706427d15163c9f407756a567c34301",
+      "title": "SWM341_DAPLink.LCPcb",
+      "filename": "SWM341_DAPLink.LCPcb.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "0a401b521df54dabb57c5269dfa4e21e": 5,
+        "282f7786cb6144d097ae00194c3e3fb3": 1,
+        "f9e6d8f6fe6e4b348da3a046eee6c415": 1,
+        "f8151fdc728a41ebbc304e11d39e5437": 8,
+        "9796ce52d844439588f46357e429be00": 2,
+        "9f77654394344f25b3de138e0fe05ff6": 2,
+        "cb4cd0c1021f4d0189def6b72663a70a": 1,
+        "0b0f7e179ede420a8af2a98a7bbdc039": 1,
+        "b15b3c292713475988b6b7fe8f00426f": 1,
+        "4fe2c1ea2ed740e8b938a136f207e559": 1,
+        "090b645653374cf992fd93fb559e27d2": 4
+      },
+      "BOM": [],
+      "updateTime": 1656559667,
+      "createTime": 1645090841,
+      "histories": [],
+      "created_at": "2022-02-17 17:40:41",
+      "updated_at": "2022-06-30 11:27:47"
+    }
+  ],
+  "sort": [],
+  "title": "SWM341_DAPLink 2T45",
+  "foldername": "SWM341_DAPLink 2T45",
+  "schfilename": "SWM341_DAPLink 2T45.json",
+  "schfilemtime": 1656559139696
+}
