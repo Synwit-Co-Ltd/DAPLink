@@ -216,7 +216,7 @@ static __inline uint32_t PIN_SWDIO_IN(void)
 
 static __inline void PIN_SWDIO_OUT(uint32_t bit)
 {
-    SWD_SWDIO = bit ? 1 : 0;
+    SWD_SWDIO = bit & 1;
 }
 
 static __inline void PIN_SWDIO_OUT_ENABLE(void)
@@ -243,7 +243,7 @@ static __inline uint32_t PIN_TDI_IN(void)
 
 static __inline void PIN_TDI_OUT(uint32_t bit)
 {
-	JTAG_TDI = bit ? 1 : 0;
+	JTAG_TDI = bit & 1;
 }
 
 
